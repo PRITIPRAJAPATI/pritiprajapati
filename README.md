@@ -1,6 +1,6 @@
-### Priti Prajapati👋
+### Priti Prajapati
 
-# Coding! 👋
+# Coders and Learners! 👋
 
 I'm [Priti Prajapati](https://www.yourwebsite.com/), a passionate developer from [Mumbai,India](https://goo.gl/maps/9HwjyYPYtZo1YcVT6). Welcome to my GitHub playground!
 
@@ -42,20 +42,17 @@ I'm [Priti Prajapati](https://www.yourwebsite.com/), a passionate developer from
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITIPRAJAPATI)
 
 
-<!-- GitHub Trophies Section -->
-## GitHub Trophies
-
-<!-- Insert the dynamic GitHub Profile Trophy section by using the following GitHub tag -->
-
-[![trophy](https://github-profile-trophy.vercel.app/PRITIPRAJAPATI=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!-- Visitor Counter Section -->
 ## Profile Views
 
 <!-- Insert the dynamic GitHub Profile Views Counter section by using the following GitHub tag -->
 ![Profile Views](https://komarev.com/ghpvc/?username=PRIITPRAJAPATI)
 
-<!-- Languages and Tools Section -->
+<!-- Most Used Languages Section -->
+## Most Used Languages
+
+<!-- Insert the dynamic GitHub Top Languages section by using the following GitHub tag -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITIPRAJAPATI&layout=compact)
 
 <!-- GitHub  Badge -->
 ![GitHub followers](https://img.shields.io/github/followers/PRITIPRAJAPATI?style=social)
