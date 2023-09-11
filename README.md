@@ -9,7 +9,7 @@ I'm [Priti Prajapati](https://www.yourwebsite.com/), a passionate developer from
 
 <p align="center">
   <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e4713durgbgxrpglwvhruzoq7jmqvwkn3c0wqqd0m2q&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF 1">
-  <img src="https://media1.giphy.com/media/Lny6Rw04nsOOc/200.webp?cid=ecf05e47fa22fqkdankz13ctl02zi39dbhqokii2llavbkjb&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Animated GIF 2">
+ 
   <!-- Add more animated GIFs as needed -->
 </p>
 
@@ -21,6 +21,15 @@ I'm [Priti Prajapati](https://www.yourwebsite.com/), a passionate developer from
 - 💼 I work as a [Freelancer](#) and an Artist who keen to explore and learn many more.
 - 🎓 Proud graduate of [Mumbai University](#) with a degree in [INFORMATION TECHNOLOGY](#).
 
+<!-- Animated GIFs Section -->
+## Fun Moments
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/Lny6Rw04nsOOc/200.webp?cid=ecf05e47fa22fqkdankz13ctl02zi39dbhqokii2llavbkjb&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Animated GIF 2">
+  <!-- Add more animated GIFs as needed -->
+</p>
+
+
 ## GitHub Stats
 
 <!-- Insert the dynamic GitHub stats section by using the following GitHub tag -->
@@ -31,13 +40,14 @@ I'm [Priti Prajapati](https://www.yourwebsite.com/), a passionate developer from
 
 <!-- Insert the dynamic GitHub contribution streak section by using the following GitHub tag -->
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITIPRAJAPATI)
-[![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=ocean-gradient)](https://git.io/streak-stats)
+
 
 <!-- GitHub Trophies Section -->
 ## GitHub Trophies
 
 <!-- Insert the dynamic GitHub Profile Trophy section by using the following GitHub tag -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PRITIPRAJAPATI)
+
+[![trophy](https://github-profile-trophy.vercel.app/PRITIPRAJAPATI=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Visitor Counter Section -->
 ## Profile Views
