@@ -13,9 +13,21 @@ I'm [Priti Prajapati](https://www.yourwebsite.com/), a passionate developer from
 - 🎓 Proud graduate of [Mumbai University](#) with a degree in [INFORMATION TECHNOLOGY](#).
 
 <!-- GitHub Stats Section -->
+
 ## My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/=DenverCoder1)](https://git.io/streak-stats)
+<!-- GitHub Stats Section -->
+## GitHub Stats
+
+<!-- Insert the dynamic GitHub stats section by using the following GitHub tag -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRITIPRAJAPATI&show_icons=true&theme=dark)
+
+<!-- GitHub Contribution Streak Section -->
+## GitHub Contribution Streak
+
+<!-- Insert the dynamic GitHub contribution streak section by using the following GitHub tag -->
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITIPRAJAPATI)
+
 
 <!-- Technologies I Love Section -->
 ## Technologies I Love
