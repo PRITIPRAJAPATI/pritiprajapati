@@ -27,7 +27,7 @@ I'm [Priti Prajapati](https://www.yourwebsite.com/), a passionate developer from
 
 <!-- Insert the dynamic GitHub contribution streak section by using the following GitHub tag -->
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITIPRAJAPATI)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=ocean-gradient)](https://git.io/streak-stats)
 
 <!-- Technologies I Love Section -->
 ## Technologies I Love
